@@ -1,0 +1,73 @@
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.Properties.Resources.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.ucUser.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfAddExisting.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfChangeUser.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCreateUser.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCustomer.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCustomerSet.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfForgotPassword.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfHome.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfLogIn.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfLogInHistory.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfPassword.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfUser.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\bin\Debug\AngiesCommercial.exe
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\bin\Debug\AngiesCommercial.pdb
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.exe
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.pdb
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfProduct.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfProductSet.resources
+C:\Users\Alkhaizil\Desktop\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfInventory.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.exe
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.pdb
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\bin\Debug\AngiesCommercial.exe
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\bin\Debug\AngiesCommercial.pdb
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.Properties.Resources.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.ucUser.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfAddExisting.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfChangeUser.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCreateUser.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCustomer.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCustomerSet.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfForgotPassword.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfHome.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfLogIn.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfLogInHistory.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfInventory.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfProduct.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfProductSet.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfPassword.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfPurchase.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfUser.resources
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Thesis namin lahat\AngiesCommercial\AngiesCommercial\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.exe
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.pdb
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\bin\Debug\AngiesCommercial.exe
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\bin\Debug\AngiesCommercial.pdb
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.Properties.Resources.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.ucUser.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfAddExisting.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfChangeUser.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCreateUser.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCustomer.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfCustomerSet.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfForgotPassword.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfHome.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfLogIn.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfLogInHistory.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfInventory.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfProduct.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfProductSet.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfPassword.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfPurchase.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.wfUser.resources
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CAVALIERS\Desktop\THESIS\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.exe
+C:\Users\CAVALIERS\Desktop\THESIS\Thesis namin lahat\Butuhasan\AngiesCommercial\AngiesCommercial\obj\x86\Debug\AngiesCommercial.pdb
